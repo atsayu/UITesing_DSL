@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debug-info version="2">
+  <root nodeRef="r:77e93bb7-3723-47cb-9de5-afa03331aef1(Testing_Resources.sandbox)/5088963039198766806">
+    <file name="map_TestSuite.xml">
+      <unit id="5088963039198766806" at="1,0,27,12" name="Testing_Resources.sandbox.map_TestSuite" />
+    </file>
+  </root>
+  <root nodeRef="r:77e93bb7-3723-47cb-9de5-afa03331aef1(Testing_Resources.sandbox)/5088963039198766844">
+    <file name="map_TestSuite.xml">
+      <unit id="5088963039198766844" at="1,0,27,12" name="Testing_Resources.sandbox.map_TestSuite" />
+    </file>
+  </root>
+  <root nodeRef="r:77e93bb7-3723-47cb-9de5-afa03331aef1(Testing_Resources.sandbox)/5088963039198766886">
+    <file name="map_TestSuite.xml">
+      <unit id="5088963039198766886" at="1,0,67,12" name="Testing_Resources.sandbox.map_TestSuite" />
+    </file>
+  </root>
+</debug-info>
+

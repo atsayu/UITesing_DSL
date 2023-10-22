@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debug-info version="2">
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1082113931046:jetbrains.mps.baseLanguage.structure.ContinueStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123155:jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123159:jetbrains.mps.baseLanguage.structure.IfStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123165:jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068581242864:jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068581242878:jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123157:jetbrains.mps.baseLanguage.structure.Statement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1070462154015:jetbrains.mps.baseLanguage.structure.StaticFieldDeclaration" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1081236700938:jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" />
+  <root>
+    <file name="TextGenAspectDescriptor.java">
+      <unit at="50,0,53,0" name="Testing_Resources_Scripts.textGen.TextGenAspectDescriptor$CONCEPTS" />
+      <unit at="16,0,54,0" name="Testing_Resources_Scripts.textGen.TextGenAspectDescriptor" />
+    </file>
+  </root>
+  <root nodeRef="r:701e36ca-396c-4ee6-8160-366282fef667(Testing_Resources_Scripts.textGen)/1968407147455840808">
+    <file name="TestCaseRef_TextGen.java">
+      <node id="1968407147455840808" at="18,54,19,55" concept="4" />
+      <node id="1968407147455920654" at="21,35,22,27" concept="1" />
+      <node id="1968407147455881975" at="22,27,23,0" concept="6" />
+      <node id="1968407147455840808" at="29,0,30,0" concept="7" trace="testcase$cH08" />
+      <node id="1968407147455840808" at="30,0,31,0" concept="7" trace="actions$VCEB" />
+      <node id="1968407147455880105" at="21,0,25,0" concept="3" trace="visit#(Lorg/jetbrains/mps/openapi/model/SNode;)V" />
+      <node id="1968407147455850818" at="19,55,25,7" concept="1" />
+      <node id="1968407147455840808" at="17,0,27,0" concept="3" trace="generateText#(Ljetbrains/mps/text/rt/TextGenContext;)V" />
+      <scope id="1968407147455880106" at="21,35,23,0" />
+      <scope id="1968407147455880105" at="21,0,25,0">
+        <var name="it" id="1968407147455880105" />
+      </scope>
+      <scope id="1968407147455840808" at="18,54,25,7">
+        <var name="tgs" id="1968407147455840808" />
+      </scope>
+      <scope id="1968407147455840808" at="17,0,27,0">
+        <var name="ctx" id="1968407147455840808" />
+      </scope>
+      <unit id="1968407147455840808" at="28,0,32,0" name="Testing_Resources_Scripts.textGen.TestCaseRef_TextGen$LINKS" />
+      <unit id="1968407147455880105" at="20,159,25,5" name="Testing_Resources_Scripts.textGen.TestCaseRef_TextGen$1" />
+      <unit id="1968407147455840808" at="16,0,33,0" name="Testing_Resources_Scripts.textGen.TestCaseRef_TextGen" />
+    </file>
+    <file name="TextGenAspectDescriptor.java">
+      <node id="1968407147455840808" at="26,45,27,41" concept="5" />
+      <node id="1968407147455840808" at="35,62,36,53" concept="4" />
+      <node id="1968407147455840808" at="36,53,37,56" concept="4" />
+      <node id="1968407147455840808" at="37,56,38,84" concept="1" />
+      <node id="1968407147455840808" at="38,84,39,17" concept="0" />
+      <node id="1968407147455840808" at="43,61,44,26" concept="5" />
+      <node id="1968407147455841219" at="46,66,47,18" concept="5" />
+      <node id="1968407147455840808" at="43,0,46,0" concept="8" trace="getFileName_TestCaseRef#(Lorg/jetbrains/mps/openapi/model/SNode;)Ljava/lang/String;" />
+      <node id="1968407147455840808" at="46,0,49,0" concept="8" trace="getFileExtension_TestCaseRef#(Lorg/jetbrains/mps/openapi/model/SNode;)Ljava/lang/String;" />
+      <node id="1968407147455840808" at="34,58,40,7" concept="2" />
+      <scope id="1968407147455840808" at="26,45,27,41" />
+      <scope id="1968407147455840808" at="43,61,44,26" />
+      <scope id="1968407147455840808" at="46,66,47,18" />
+      <scope id="1968407147455840808" at="43,0,46,0">
+        <var name="node" id="1968407147455840808" />
+      </scope>
+      <scope id="1968407147455840808" at="46,0,49,0">
+        <var name="node" id="1968407147455840808" />
+      </scope>
+      <scope id="1968407147455840808" at="35,62,39,17">
+        <var name="ext" id="1968407147455840808" />
+        <var name="fname" id="1968407147455840808" />
+      </scope>
+    </file>
+  </root>
+</debug-info>
+
